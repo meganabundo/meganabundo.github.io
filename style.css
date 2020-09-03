@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+img {
+  padding: 2.5rem 0rem;
+  height: auto;
+  max-width: 100%;
+}
+section {
+  background: cornflowerblue;
+  color: white;
+  padding: 0.5rem;
+  padding-left: 1rem;
+}
+.about {
+  margin: 2.5rem;
+}
+.about-info {
+  font-size: 1.6rem;
+  margin: 2.5rem;
+}
